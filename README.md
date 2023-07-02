@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Džejlan Jahić</h1>
+<h1 align="center">Hi, I'm Džejlan Jahić</h1>
 <h3 align="center">Student of Information Technologies.</h3>
 <img align="right" alt="Coding" width=400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7VmVVzdP1fpsYsSmcn4ygiDB2K_vB7cN91IyCJ-dZnZeLxJOSL1z-XJGYLQ-HJ_l4XVc&usqp=CAU"</img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdzejlan&label=Profile%20views&color=0e75b6&style=flat" alt="jdzejlan" /> </p>
 
-- 🌱 I’m currently learning **Advanced technologies**
+-  I’m currently learning **Advanced technologies**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JDzejlan](https://github.com/JDzejlan)
+-  All of my projects are available at [https://github.com/JDzejlan](https://github.com/JDzejlan)
 
-- 💬 Ask me about **HTML, CSS, C, WordPress**
+-  Ask me about **HTML, CSS, C, WordPress**
 
-- 📫 How to reach me **jahicdzejlan@gmail.com**
+-  How to reach me **jahicdzejlan@gmail.com**
 
-- ⚡ Fun fact **"Patience brings rewards."**
+-  Fun fact **"Patience brings rewards."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
