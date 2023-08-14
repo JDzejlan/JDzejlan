@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Džejlan Jahić</h1>
 <h3 align="center">Student of Information Technologies.</h3>
-<img align="right" alt="Coding" width=400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7VmVVzdP1fpsYsSmcn4ygiDB2K_vB7cN91IyCJ-dZnZeLxJOSL1z-XJGYLQ-HJ_l4XVc&usqp=CAU"</img>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jdzejlan&label=Profile%20views&color=0e75b6&style=flat" alt="jdzejlan" /> </p>
 
 -  I’m currently learning **Advanced technologies**
 
