@@ -1,6 +1,3 @@
-<h1 align="center">Hi, I'm Džejlan Jahić</h1>
-<h3 align="center">Student of Information Technologies.</h3>
-
 
 -  I’m currently learning **Advanced technologies**
 
