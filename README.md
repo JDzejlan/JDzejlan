@@ -3,7 +3,7 @@
 
 -  All of my projects are available at [https://github.com/JDzejlan](https://github.com/JDzejlan)
 
--  Ask me about **HTML, CSS, C, WordPress**
+-  Ask me about **HTML, CSS, JavaScript, C, WordPress**
 
 -  How to reach me **jahicdzejlan@gmail.com**
 
