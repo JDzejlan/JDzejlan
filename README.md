@@ -2,9 +2,9 @@
 
 🔭 All of my projects are available at: [https://github.com/JDzejlan](https://github.com/JDzejlan)
 
-## Technologies:
+## Development Technologies / styles:
 
- **HTML, CSS, PHP, SQL, JavaScript, C, C++, OOP**.
+ HTML, CSS, PHP, SQL, JavaScript, C, C++, OOP.
 
 ## Tools:
 
