@@ -4,7 +4,13 @@
 
 🔭 All of my projects are available at [https://github.com/JDzejlan](https://github.com/JDzejlan)
 
-🌱 Ask me about **HTML, CSS, PHP, SQL, JavaScript, C, C++, OOP, WordPress**
+## Technologies I Use:
+
+Ask me about **HTML, CSS, PHP, SQL, JavaScript, C, C++, OOP,**.
+
+## Tools I Use
+
+I use tools like: WordPress, Adobe Creative Suite, Canva, MS Office, CapCut, Filmora.
 
 📫 How to reach me: **jahicdzejlan@gmail.com**
 
@@ -29,12 +35,20 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
   </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> 
-  </a> 
+</p>
+<p align="left">
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> 
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Microsoft_Office_Desktop_App_Icon_2018.svg/1200px-Microsoft_Office_Desktop_App_Icon_2018.svg.png" alt="ms-office" width="40" height="40"/> 
+  </a>
+  <a href="https://www.capcutapk.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/CapCut_icon.png/600px-CapCut_icon.png" alt="capcut" width="40" height="40"/> 
+  </a>
+  <a href="https://filmora.wondershare.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/filmora-1.svg" alt="filmora" width="40" height="40"/> 
+  </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jdzejlan&show_icons=true&locale=en&layout=compact" alt="jdzejlan" /></p>
