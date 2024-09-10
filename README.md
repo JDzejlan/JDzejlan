@@ -4,7 +4,7 @@
 
 ## Development Technologies / styles:
 
- HTML, CSS, JavaScript, PHP, SQL
+ HTML, CSS, JavaScript, PHP, SQL.
 
 ## Tools:
 
